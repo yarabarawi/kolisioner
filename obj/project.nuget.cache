@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dNQqPvBOTVPu+l32DCtL4jgDxalQ1ylN5QS3cpRLCdkgfpBqy3sJ3De4Lrmqh7cvL8jNDhOnaIhVrnH03WRFA==",
+  "success": true,
+  "projectFilePath": "C:\\github\\Raylib\\kolisioner\\kolisioner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yara.mustafa\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\yara.mustafa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
